@@ -1,3 +1,3 @@
 # demo1
 Basic Project Repo<br>
-Created on 10th December
+Created on 10 December
